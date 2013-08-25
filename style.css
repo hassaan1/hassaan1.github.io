@@ -1,0 +1,349 @@
+body {
+	margin: 0;
+	padding: 0;
+	text-align: left;
+	font: 12px Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #061C37;
+	//background: #1E4297;
+	background: #4A5E8F;
+	background-repeat:repeat-x;
+}
+
+h1{
+font-family: 'Caesar Dressing', cursive;
+}
+
+h2{ 
+  margin: auto; 
+  text-align: center;
+  font-family: 'Caesar Dressing', cursive;
+  font-size: 4em;
+}
+
+.article{
+  padding: 0px 20px;
+  //border-left: 20px;
+}
+h3>a{
+  text-decoration: none;
+  color: #4A5E8F;
+}
+
+.fr{
+  padding: 10px 5px;
+}
+
+*
+{
+  margin: 0 auto 0 auto;
+ text-align:left;}
+ 
+#ribbon {
+  background-color: #1e4297;
+  height: 50px;
+  position: absolute;
+  top: 479px;
+  width: 100%;
+}
+
+#ribbon2 {
+  background-color: #1e4297;
+  height: 50px;
+  position: absolute;
+  top: 1320px;
+  width: 100%;
+  }
+  
+#ribbon3 {
+  background-color: #1e4297;
+  height: 50px;
+  position: absolute;
+  top: 1450px;
+  width: 100%;
+  }
+  
+#ribbon4 {
+  background-color: #1e4297;
+  height: 50px;
+  position: absolute;
+  top: 1088px;
+  width: 100%;
+  }
+  
+#ribbon5{
+  background-color: #1e4297;
+  height: 50px;
+  position: absolute;
+  top: 970px;
+  width: 100%;
+  }
+  
+#ribbon6 {
+  background-color: #1e4297;
+  height: 50px;
+  position: absolute;
+  top: 557px;
+  width: 100%;
+  }
+  
+ #ribbon7{
+  background-color: #1e4297;
+  height: 50px;
+  position: absolute;
+  top: 910px;
+  width: 100%;
+  } 
+  
+.bodyimg{
+  float: left;
+  padding: 0px 15px;
+}
+
+#container
+{
+  display: block; 
+  height:auto;
+  position: relative; 
+  width: 940px;
+}
+
+#mainpic h1
+{
+position:absolute;
+text-align:right;
+font-size:30px;
+color:#FFF;	
+left:550px;
+top:100px;
+}
+
+
+#mainpic h2
+{
+position:absolute;
+text-align:right;
+color:#E1E7F7;	
+left:550px;
+top:130px;
+}
+
+#mainpic
+{
+background-image:url(images/car.jpg);
+background-repeat:no-repeat;
+width:900px;
+height:460px;	
+}
+
+#mainpic1
+{
+background-image:url(images/audi-r8.jpg);
+background-repeat:no-repeat;
+width:900px;
+height:460px;	
+}
+
+#mainpic2
+{
+background-image:url(images/mclern.jpg);
+background-repeat:no-repeat;
+width:900px;
+height:460px;	
+}
+
+#mainpic3
+{
+background-image:url(images/4.jpg);
+background-repeat:no-repeat;
+width:900px;
+height:460px;	
+}
+
+#mainpic4
+{
+background-image:url(images/veyron.jpg);
+background-repeat:no-repeat;
+width:900px;
+height:460px;	
+}
+
+#mainpic5
+{
+background-image:url(images/bugati.jpg);
+background-repeat:no-repeat;
+width:900px;
+height:460px;	
+}
+
+.lightblue
+{
+color:#B1C6FC	
+	
+}
+
+
+
+
+#menu
+{
+background-image:url(images/menu.png);
+background-repeat:no-repeat;
+width:940px;
+height:69px;
+float:left;
+clear:both;
+}
+
+#menu2
+{
+background-image:url(images/menu2.png);
+background-repeat:no-repeat;
+width:940px;
+height:auto;
+float:left;
+clear:both;
+}
+
+#menu3
+{
+background-image:url(images/menu2.png);
+background-repeat:no-repeat;
+width:940px;
+height:auto;
+float:left;
+clear:both;
+}
+
+#menu4
+{
+background-image:url(images/menu2.png);
+background-repeat:no-repeat;
+width:940px;
+height:auto;
+float:left;
+clear:both;
+}
+
+#content
+{
+width:880px;
+height:auto;
+background-color: #FFF;
+padding-left:10px;
+padding-right:10px;
+padding-bottom:100px;
+}
+#content1
+{
+width:880px;
+height:400px;
+background-color: #FFF;
+padding-left:10px;
+padding-right:10px;
+padding-bottom:100px;
+}
+
+
+#footer
+{
+width:inherit;
+height:auto;
+}
+
+#footer h3 a,#footer h3 a:visited
+{
+display:inline;
+text-align:center;
+font-size:12px;
+text-decoration:none;
+color:#7198E1;
+}
+
+
+#menu ul {
+	list-style: none;
+	padding: 0px;
+	margin-left:auto;
+	width:900px;
+}
+
+#menu li {
+	list-style: none;
+	padding: 0px;	
+	display: inline; 
+	
+}
+
+#menu a {
+	float: left;
+	width: 150px;
+	height: 40px;
+	display: block;
+	text-align: center;
+	text-decoration: none;
+	color: #ffffff;
+	font-weight: bold;
+	padding-top: 17px;
+	font-size: 15px;
+}
+
+#menu a:hover{
+	color:#BAD1F3;
+	background: url(images/menuhov.jpg) no-repeat;
+}
+
+
+
+html, body {
+text-align: center;
+}
+p {text-align: left;}
+
+/***********************
+************************
+**********products styling
+*************************
+*************************/
+
+.prod-img{
+	width: 250px; 
+	height: auto;
+}
+
+.prod-con .con-first{
+	margin-left: 5px;
+}
+
+.prod-con .con-last{
+	margin-right: 5px;
+}
+
+
+.prod-con{
+	background-color: #fff;
+	width: 278px;
+	height: auto;
+	margin: 0 2.5px 0 2.5px;
+	float: left;
+	padding: 10px 5px;
+}
+
+.prod-con>h3{
+	margin: auto; 
+	text-align: center;
+}
+
+/***********************
+************************
+**********footer styling
+*************************
+*************************/
+
+
+.col{
+	color: white;
+	float:right;
+	width: 350px;
+	margin: 24px 10px;
+}
